@@ -3,6 +3,13 @@ Java Software application for Beirut Municipality.
 
 This is a java testing project that utilizes SpringBoot in order to visualize the test results via HTML/CSS.
 
-Every use case has its java file that contains the cases, and in residentservicestest, all the tests for the whole use cases, admin, service provider, etc... are found there where dummy data is appeneded and if true, the test result of each individual use case is echoed through the HTML interface.
 
-(You can find the full reports for every phase of the project inside)
+### **Overview**
+
+•	Each use case is structured into its own Java file, containing specific test cases.
+
+•	The ResidentServicesTest file consolidates all tests for various use cases, including Admin, Service Provider, and more.
+
+•	Dummy data is appended during test execution, and successful test results are displayed through the HTML interface.
+
+•	Full project reports for every phase are available inside the repository.
